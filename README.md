@@ -5,7 +5,7 @@ This is an example application that integrates Spring Boot web sockets with Redi
 ## Prerequisites: 
 - Install Maven (https://maven.apache.org/download.cgi) and Docker (https://www.docker.com/products/docker-desktop).Note, Maven does not need to be installed if using the Maven wrapper.
 
-- `git clone https://github.com/D2P-APPS/WebSocketTest.git`
+- `git clone https://github.com/thanhnluu/WebSocketTest.git`
 
 - `cd WebSocketTest`
 
